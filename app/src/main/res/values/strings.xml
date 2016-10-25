@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestDemo</string>
+    <string name="txt_gift_multiplication">×&#160;</string>
+    <string name="txt_gift_give_one">送了一个</string>
+</resources>
